@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ichimoku_env/
+*.egg-info/
+dist/
+build/
+
+# 환경 변수
+.env
+
+# 캐시 및 데이터
+cache/
+results/
+*.pkl
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
